@@ -1,0 +1,8 @@
+# python jupyter notebook file extension name
+*.ipynb
+
+# python vritural environment default folder name
+.venv/
+
+# python cache folder name
+__pycache__/
